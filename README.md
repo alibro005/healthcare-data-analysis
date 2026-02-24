@@ -148,12 +148,9 @@ Run all cells to reproduce the analysis.
 
 ###  License
 
-This project is licensed under the MIT License.
+This project is licensed under the ![MIT](LICENCE) License.
 
 <div align="center">
-
-Created with data curiosity by [alibro005](www.github.com/alibro005)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cec9,100:0a3d62&height=100&section=footer" width="100%"/> 
 
 </div> 
