@@ -79,7 +79,6 @@ The dataset includes approximately **55,000 patient records** with the following
 ### 2. Data Cleaning
 - Removed duplicate records
 - Converted date columns to `datetime`
-- Filtered patients above age 60 (for focused analysis)
 - Verified missing values
 
 ### 3. Feature Engineering
