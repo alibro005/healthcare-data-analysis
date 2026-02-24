@@ -148,7 +148,7 @@ Run all cells to reproduce the analysis.
 
 ###  License
 
-This project is licensed under the ![MIT](LICENCE) License.
+This project is licensed under the [MIT](LICENSE) License.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cec9,100:0a3d62&height=100&section=footer" width="100%"/> 
